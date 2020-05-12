@@ -1,0 +1,222 @@
+v1.2.2 (April 9, 2020)
+-----------------------------
+- Released Report premium theme for free
+- Fixed 'data-vocabulary' schema warning in the breadcrumbs
+- Fixed php issues and warnings
+
+Files Updated:
+- functions.php
+- functions/plugin-activation.php
+- functions/rm-seo.php
+- functions/rank-math-notice.php
+- functions/widget-catposts.php
+- functions/widget-recentposts.php
+- functions/tinymce/..
+- functions/theme-shortcodes.php.php
+- header.php
+- index.php
+- page.php
+- single.php
+- lang/default.pot
+- style.css
+
+
+v1.2.1 (Jan 16, 2019)
+-----------------------------
+- Added More SEO Tweaks
+- Added better integration with Rank Math SEO plugin
+- Added integration for Rank Math SEO Breadcrumbs
+- Fixed MyThemeShop Connect install issue on Recommended Plugins page
+
+Files Updated:
+- archive.php
+- functions.php
+- functions/plugin-activation.php
+- functions/rank-math-notice.php
+- functions/rm-seo.php
+- functions/theme-actions.php
+- images/rank-math-banner.jpg
+- index.php
+- lang/mythemeshop.pot
+- page.php
+- page-nosidebar.php
+- single.php
+- style.css
+
+
+v1.2.0 (Oct 18, 2018)
+-----------------------------
+- Added life-changing SEO support with an included SEO plugin
+- Added compatibility for Gutenberg editor
+- Security & licensing fixes
+- Fixed php7 warning
+- Fixed other minor CSS issues
+- Important fixes for better performance
+
+Files Updated:
+- functions.php
+- style.css
+- functions/cacert.pem
+- functions/plugin-activation.php
+- functions/rm-seo.php
+- functions/theme-actions.php
+- functions/tinymce/tinymce.php
+- functions/twitteroauth.php
+- functions/widget-tweets.php
+- lang/default.pot
+- options/options.php
+
+
+v1.1.10 (May 24, 2018)
+-----------------------------
+- Added Contact Form
+- Added GDPR compliant comment & contact form
+
+Files Updated:
+- style.css
+- functions.php
+- comments.php
+- functions/theme-actions.php
+- page-contact.php
+
+
+v1.1.9 (Mar 29, 2018)
+-----------------------------
+- Fixed plugin install issue on "Install Required Plugins" page
+- Fixed php7 notices
+
+Files Updated:
+- style.css
+- functions.php
+- functions/plugin-activation.php
+- functions/tinymce/tinymce.php
+- js/addons.js
+- css/addons.css
+
+
+v1.1.8 (May 21, 2017)
+ -----------------------------
+ - Updated demo import files
+
+ Files updated:
+- functions.php
+- style.css
+- options/demo-importer/demo-files/default/widgets.json
+
+
+v1.1.7 (Apr 11, 2017)
+ -----------------------------
+ - Include Support tab in Theme Options Panel
+ - Fixed wrong field constructor args in the Options Panel
+ - changed textdomain of Theme Options Panel
+
+ Files updated:
+ - style.css
+ - functions.php
+ - theme-options.php
+ - options/support.php
+ - options/options.php
+ - options/css/options.css
+ - options/js/clipboard.min.js
+ - options/js/help.js
+
+v1.1.6 (Jan 12, 2017)
+-----------------------------
+- One click demo importer improvements
+
+Files updated:
+- style.css
+- functions.php
+- options/demo-importer/
+
+
+v1.1.5 (Oct 22, 2016)
+-----------------------------
+- One click demo importer improvements
+- Install Plugins page improvements
+
+Files updated:
+- style.css
+- functions.php
+- theme-presets.php
+- options/
+- lang/
+- functions/plugin-activation.php
+
+
+v1.1.4 (Oct 5, 2016)
+-----------------------------
+- Added one click demo importer
+- Updated image upload option field
+- Updated Twitter widget
+- Updated language files
+- Fixed PHP warnings
+
+Files updated:
+- style.css
+- functions.php
+- theme-presets.php
+- options/
+- lang/
+- functions/
+
+
+v1.1.3 (Mar 22, 2016)
+-----------------------------
+- Updated code on Recommended plugins page
+
+Files updated:
+- style.css
+- functions/plugin-activation.php
+- css/addons.css
+
+
+v1.1.2 (Mar 11, 2016)
+-----------------------------
+- Recommended plugins page changes
+
+Files updated:
+- style.css
+- functions.php
+- functions/plugin-activation.php
+- css/addons.css
+
+
+v1.1.1 (Feb 8th, 2016)
+-----------------------------
+- Added recommended plugins page
+
+Files changed:
+- style.css
+- functions/plugin-activation.php
+- css/addons.css
+- js/addons.js
+
+
+v1.1 (February 24th, 2013)
+---------------------------------------------------
+- Added 20 extra background patterns.
+- Text logo color can change with color scheme.
+- Improved Options Panel
+- Added HTML Prefetching for lightning fast site loading.
+- Upload any size of logo without modifying code.
+- Added few words in .po file for translation.
+- New social profile widget added.
+- Replaced Pinterest button with counter.
+- Now column shortcodes are responsive on small screens.
+- Added proper styling to Calendar widget.
+- Removed thumbnail size option from Category, Recent posts widget.
+- Customized tag widget.
+- Fixed search form issue.
+- Added author name in Author Box.
+- Made a few SEO improvements.
+- Small design improvements.
+- Related posts will show random posts from same category.
+- Code optimization for speed.
+- Removed padding around 125x125 ad widget.
+- Shortcode compatibility in RSS feed.
+
+
+v1.0 (August 22th, 2012)
+---------------------------------------------------
+- Theme Released
